@@ -439,13 +439,30 @@ Individuo executar_algoritmo(vector<double>& melhores_fitnesses) {
         populacao.push_back(gerar_individuo());
     }
 
-    Individuo melhor_geral;
-    double melhor_fitness = 0;
+    Individuo melhor_individuo_global;
+    double valor_melhor_fitness_global = 0;
+
+    int id_melhor_individuo_geracao = 0;
+    double valor_melhor_fitness_geracao = avaliar_individuo(populacao[0]);
+
+    for(int i = 1; i < TAM_POPULACAO; i++) {
+        double fitness = avaliar_individuo(populacao[i]);
+
+        if(fitness < valor_melhor_fitness_geracao) {
+            id_melhor_individuo_geracao = i;
+            valor_melhor_fitness_geracao = fitness;
+        }
+    }
+
+    melhores_fitnesses.push_back(valor_melhor_fitness_geracao);
+    melhor_individuo_global = populacao[id_melhor_individuo_geracao];
+    valor_melhor_fitness_global = valor_melhor_fitness_geracao;
 
     for(int geracao = 0; geracao < NUM_GERACOES; geracao++) {
         vector<Individuo> nova_populacao;
+        nova_populacao.push_back(populacao[id_melhor_individuo_geracao]);
 
-        for(int i = 0; i < TAM_POPULACAO; i++) {
+        for(int i = 0; i < TAM_POPULACAO - 1; i++) {
             Individuo pai1 = torneio(populacao);
             Individuo pai2 = torneio(populacao);
             nova_populacao.push_back(cruzar_individuos(pai1, pai2));
@@ -460,27 +477,27 @@ Individuo executar_algoritmo(vector<double>& melhores_fitnesses) {
         }
 
         populacao = nova_populacao;
-        int melhor = 0;
-        double fitness_geracao = avaliar_individuo(populacao[0]);
+        id_melhor_individuo_geracao = 0;
+        valor_melhor_fitness_geracao = avaliar_individuo(populacao[0]);
 
         for(int i = 1; i < TAM_POPULACAO; i++) {
             double fitness = avaliar_individuo(populacao[i]);
 
-            if(fitness < fitness_geracao) {
-                melhor = i;
-                fitness_geracao = fitness;
+            if(fitness < valor_melhor_fitness_geracao) {
+                id_melhor_individuo_geracao = i;
+                valor_melhor_fitness_geracao = fitness;
             }
         }
 
-        melhores_fitnesses.push_back(fitness_geracao);
+        melhores_fitnesses.push_back(valor_melhor_fitness_geracao);
 
-        if(geracao == 0 || fitness_geracao < melhor_fitness) {
-            melhor_geral = populacao[melhor];
-            melhor_fitness = fitness_geracao;
+        if(valor_melhor_fitness_geracao < valor_melhor_fitness_global) {
+            melhor_individuo_global = populacao[id_melhor_individuo_geracao];
+            valor_melhor_fitness_global = valor_melhor_fitness_geracao;
         }
     }
 
-    return melhor_geral;
+    return melhor_individuo_global;
 }
 
 void imprimir_dia(const Dia& dia) {
