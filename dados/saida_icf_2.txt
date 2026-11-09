@@ -1,0 +1,55 @@
+Sem gluten? (s/n): Sem lactose? (s/n): 
+CARDAPIO SEMANAL
+Restricoes: nenhuma
+
+Segunda
+  Cafe da manha: Tapioca (goma hidratada) (112 g), Melao (136 g), Cha mate (192 ml)
+  Almoco: Grao de bico (69 g), Arroz integral cozido (98 g), Cenoura Cozida (16 g), Batata inglesa cozida (7 g), File mignon sem gordura grelhado (154 g), Suco de uva nectar (182 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (79 g), Maracujá (115 g), Leite sem lactose (123 ml)
+  Janta: Macarrao Instantaneo (121 g), Macarrao espaguete cozido (137 g), Abobora cabotia cozida (19 g), Couve-flor cozida (6 g), Atum conserva em oleo (104 g), Suco Laranja Pera (172 ml)
+  Total do dia: Proteina 123.5 g | Carboidrato 367.0 g | Gordura 47.1 g | 2429.4 kcal
+
+Terca
+  Cafe da manha: Tapioca (goma hidratada) (58 g), Abacate (117 g), Iogurte natural (136 ml)
+  Almoco: Arroz integral cozido (107 g), Feijao preto (50 g), Repolho cru (20 g), Couve-flor cozida (14 g), Carne bovina acem moida cozida (191 g), Suco Laranja Pera (128 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (54 g), Uva Italia (104 g), Leite UHT integral (133 ml)
+  Janta: Feijao preto (126 g), Macarrao espaguete cozido (70 g), Abobora cabotia cozida (10 g), Quiabo cozido (18 g), Camarao cozido (194 g), Refrigerante Guarana (148 ml)
+  Total do dia: Proteina 159.0 g | Carboidrato 265.7 g | Gordura 43.7 g | 2109.0 kcal
+
+Quarta
+  Cafe da manha: Tapioca (goma hidratada) (79 g), Uva Italia (105 g), Cha mate (200 ml)
+  Almoco: Grao de bico (53 g), Feijao carioca (74 g), Alho cru (9 g), Vagem crua (9 g), File mignon sem gordura grelhado (161 g), Suco de abacaxi (103 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (96 g), Maça Fuji (138 g), Suco Laranja Pera (150 ml)
+  Janta: Lentilha (80 g), Arroz tipo 1 (113 g), Espinafre Nova Zelândia Refogado (8 g), Batata Doce Cozida (13 g), Frango peito sem pele grelhado (98 g), Suco Laranja Pera (105 ml)
+  Total do dia: Proteina 135.2 g | Carboidrato 311.0 g | Gordura 22.2 g | 1977.8 kcal
+
+Quinta
+  Cafe da manha: Tapioca (goma hidratada) (94 g), Morango (138 g), Leite UHT integral (136 ml)
+  Almoco: Macarrao Instantaneo (97 g), Macarrao espaguete cozido (87 g), Nabo cru (8 g), Alface Lisa (14 g), File mignon sem gordura grelhado (141 g), Agua de coco (198 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (137 g), Abacate (128 g), Suco Laranja Pera (186 ml)
+  Janta: Arroz integral cozido (136 g), Lentilha (59 g), Nabo cru (13 g), Repolho cru (12 g), File de Merluza Frito (151 g), Suco de abacaxi (114 ml)
+  Total do dia: Proteina 131.6 g | Carboidrato 332.1 g | Gordura 49.1 g | 2427.8 kcal
+
+Sexta
+  Cafe da manha: Tapioca (goma hidratada) (124 g), Morango (142 g), Cha mate (166 ml)
+  Almoco: Arroz integral cozido (121 g), Macarrao Instantaneo (97 g), Batata Doce Cozida (15 g), Chuchu cozido (10 g), Carne bovina lagarto cozida (154 g), Suco de uva nectar (193 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (63 g), Manga Tommy (116 g), Suco Laranja Pera (170 ml)
+  Janta: Arroz tipo 1 (142 g), Grao de bico (99 g), Brocolis cozido (14 g), Espinafre Nova Zelândia Refogado (8 g), Pintado Grelhado (143 g), Suco de abacaxi (137 ml)
+  Total do dia: Proteina 135.8 g | Carboidrato 387.9 g | Gordura 38.7 g | 2470.8 kcal
+
+Sabado
+  Cafe da manha: Tapioca (goma hidratada) (94 g), Melancia (127 g), Leite sem lactose (106 ml)
+  Almoco: Lentilha (124 g), Macarrao espaguete cozido (148 g), Pepino cru (15 g), Tomate com semente cru (6 g), File mignon sem gordura grelhado (115 g), Suco de uva nectar (167 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (74 g), Maça Fuji (132 g), Leite UHT integral (175 ml)
+  Janta: Lentilha (51 g), Arroz tipo 1 (137 g), Beterraba Crua (11 g), Tomate com semente cru (11 g), Pintado Grelhado (54 g), Suco de uva nectar (150 ml)
+  Total do dia: Proteina 122.1 g | Carboidrato 414.4 g | Gordura 24.5 g | 2397.7 kcal
+
+Domingo
+  Cafe da manha: Tapioca (goma hidratada) (56 g), Abacaxi (137 g), Suco Laranja Pera (198 ml)
+  Almoco: Macarrao Instantaneo (117 g), Feijao carioca (136 g), Batata Doce Cozida (7 g), Tomate com semente cru (9 g), Frango peito sem pele grelhado (171 g), Agua de coco (173 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (130 g), Goiaba vermelha (128 g), Agua de coco (176 ml)
+  Janta: Macarrao espaguete cozido (124 g), Arroz integral cozido (86 g), Brocolis cozido (14 g), Alface Lisa (9 g), Atum conserva em oleo (163 g), Refrigerante Guarana (114 ml)
+  Total do dia: Proteina 148.2 g | Carboidrato 381.1 g | Gordura 28.8 g | 2464.4 kcal
+
+Refeicoes repetidas: 0
+Fitness: 593.44

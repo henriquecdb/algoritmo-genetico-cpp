@@ -1,0 +1,194 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 26.42      0.14     0.14  3067414     0.00     0.00  calcular_nutrientes(Dia const&)
+ 16.98      0.23     0.09 41673932     0.00     0.00  permitido(Alimento const&)
+ 16.98      0.32     0.09 12269656     0.00     0.00  chave_refeicao(std::vector<Porcao, std::allocator<Porcao> > const&)
+ 13.21      0.39     0.07  3067407     0.00     0.00  avaliar_dia(Dia const&)
+  7.55      0.43     0.04   438202     0.00     0.00  contar_repeticoes(Individuo const&)
+  7.55      0.47     0.04        1    40.00   530.00  executar_algoritmo(std::vector<double, std::allocator<double> >&)
+  3.77      0.49     0.02  2814696     0.00     0.00  std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::operator()()
+  3.77      0.51     0.02     4511     0.00     0.00  std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::_M_gen_rand()
+  1.89      0.52     0.01  1202633     0.00     0.00  imprimir_cardapio(Individuo const&)
+  1.89      0.53     0.01    79600     0.00     0.01  torneio(std::vector<Individuo, std::allocator<Individuo> > const&)
+  0.00      0.53     0.00   526032     0.00     0.00  sortear_alimento(std::vector<Alimento, std::allocator<Alimento> > const&)
+  0.00      0.53     0.00   409136     0.00     0.00  void std::vector<Porcao, std::allocator<Porcao> >::_M_realloc_insert<Porcao const&>(__gnu_cxx::__normal_iterator<Porcao*, std::vector<Porcao, std::allocator<Porcao> > >, Porcao const&)
+  0.00      0.53     0.00    39800     0.00     0.00  cruzar_individuos(Individuo const&, Individuo const&)
+  0.00      0.53     0.00    29224     0.00     0.00  gerar_dia()
+  0.00      0.53     0.00     1609     0.00     0.00  void std::vector<Individuo, std::allocator<Individuo> >::_M_realloc_insert<Individuo>(__gnu_cxx::__normal_iterator<Individuo*, std::vector<Individuo, std::allocator<Individuo> > >, Individuo&&)
+  0.00      0.53     0.00      200     0.00     0.01  gerar_individuo()
+  0.00      0.53     0.00      200     0.00     0.00  void std::vector<Individuo, std::allocator<Individuo> >::_M_realloc_insert<Individuo const&>(__gnu_cxx::__normal_iterator<Individuo*, std::vector<Individuo, std::allocator<Individuo> > >, Individuo const&)
+  0.00      0.53     0.00       87     0.00     6.09  main
+  0.00      0.53     0.00        9     0.00     0.00  void std::vector<double, std::allocator<double> >::_M_realloc_insert<double const&>(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, double const&)
+  0.00      0.53     0.00        8     0.00     0.00  std::vector<Alimento, std::allocator<Alimento> >::vector(std::initializer_list<Alimento>, std::allocator<Alimento> const&)
+  0.00      0.53     0.00        8     0.00     0.00  Alimento* std::__do_uninit_copy<Alimento const*, Alimento*>(Alimento const*, Alimento const*, Alimento*)
+  0.00      0.53     0.00        7     0.00     0.00  imprimir_dia(Dia const&)
+  0.00      0.53     0.00        3     0.00     0.00  frame_dummy
+  0.00      0.53     0.00        2     0.00     0.00  perguntar(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+  0.00      0.53     0.00        1     0.00     0.00  definir_restricoes(Restricoes const&)
+  0.00      0.53     0.00        1     0.00     0.00  validar_restricoes()
+  0.00      0.53     0.00        1     0.00     0.00  std::vector<double, std::allocator<double> >::~vector()
+
+			Call graph
+
+
+granularity: each sample hit covers 4 byte(s) for 1.89% of 0.53 seconds
+
+index % time    self  children    called     name
+                0.00    0.53      87/87          __static_initialization_and_destruction_0() [2]
+[1]    100.0    0.00    0.53      87         main [1]
+                0.04    0.49       1/1           executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+                0.00    0.00       1/1202633     imprimir_cardapio(Individuo const&) [11]
+                0.00    0.00       1/1           validar_restricoes() [18]
+                0.00    0.00       3/3           frame_dummy [19]
+                0.00    0.00       2/2           perguntar(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [31]
+                0.00    0.00       1/1           definir_restricoes(Restricoes const&) [32]
+                0.00    0.00       1/1           std::vector<double, std::allocator<double> >::~vector() [33]
+-----------------------------------------------
+                                                 <spontaneous>
+[2]    100.0    0.00    0.53                 __static_initialization_and_destruction_0() [2]
+                0.00    0.53      87/87          main [1]
+                0.00    0.00       8/8           std::vector<Alimento, std::allocator<Alimento> >::vector(std::initializer_list<Alimento>, std::allocator<Alimento> const&) [29]
+-----------------------------------------------
+                0.04    0.49       1/1           main [1]
+[3]    100.0    0.04    0.49       1         executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+                0.01    0.40   79600/79600       torneio(std::vector<Individuo, std::allocator<Individuo> > const&) [4]
+                0.00    0.03   27824/29224       gerar_dia() [12]
+                0.00    0.02   40200/438202      contar_repeticoes(Individuo const&) [5]
+                0.01    0.01  281400/3067407     avaliar_dia(Dia const&) [6]
+                0.00    0.01   39800/39800       cruzar_individuos(Individuo const&, Individuo const&) [15]
+                0.00    0.00  560000/2814696     std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::operator()() [10]
+                0.00    0.00 1121316/41673932     permitido(Alimento const&) [9]
+                0.00    0.00     200/200         gerar_individuo() [16]
+                0.00    0.00    1609/1609        void std::vector<Individuo, std::allocator<Individuo> >::_M_realloc_insert<Individuo>(__gnu_cxx::__normal_iterator<Individuo*, std::vector<Individuo, std::allocator<Individuo> > >, Individuo&&) [26]
+                0.00    0.00     200/200         void std::vector<Individuo, std::allocator<Individuo> >::_M_realloc_insert<Individuo const&>(__gnu_cxx::__normal_iterator<Individuo*, std::vector<Individuo, std::allocator<Individuo> > >, Individuo const&) [27]
+                0.00    0.00       9/9           void std::vector<double, std::allocator<double> >::_M_realloc_insert<double const&>(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, double const&) [28]
+-----------------------------------------------
+                0.01    0.40   79600/79600       executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+[4]     76.4    0.01    0.40   79600         torneio(std::vector<Individuo, std::allocator<Individuo> > const&) [4]
+                0.04    0.16  398000/438202      contar_repeticoes(Individuo const&) [5]
+                0.06    0.13 2786000/3067407     avaliar_dia(Dia const&) [6]
+                0.00    0.01  398000/1202633     imprimir_cardapio(Individuo const&) [11]
+-----------------------------------------------
+                0.00    0.00       2/438202      imprimir_cardapio(Individuo const&) [11]
+                0.00    0.02   40200/438202      executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+                0.04    0.16  398000/438202      torneio(std::vector<Individuo, std::allocator<Individuo> > const&) [4]
+[5]     40.6    0.04    0.18  438202         contar_repeticoes(Individuo const&) [5]
+                0.09    0.08 12269656/12269656     chave_refeicao(std::vector<Porcao, std::allocator<Porcao> > const&) [7]
+                0.01    0.00 2629212/41673932     permitido(Alimento const&) [9]
+-----------------------------------------------
+                0.00    0.00       7/3067407     imprimir_cardapio(Individuo const&) [11]
+                0.01    0.01  281400/3067407     executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+                0.06    0.13 2786000/3067407     torneio(std::vector<Individuo, std::allocator<Individuo> > const&) [4]
+[6]     39.6    0.07    0.14 3067407         avaliar_dia(Dia const&) [6]
+                0.14    0.00 3067407/3067414     calcular_nutrientes(Dia const&) [8]
+-----------------------------------------------
+                0.09    0.08 12269656/12269656     contar_repeticoes(Individuo const&) [5]
+[7]     32.0    0.09    0.08 12269656         chave_refeicao(std::vector<Porcao, std::allocator<Porcao> > const&) [7]
+                0.08    0.00 36808968/41673932     permitido(Alimento const&) [9]
+-----------------------------------------------
+                0.00    0.00       7/3067414     imprimir_dia(Dia const&) [17]
+                0.14    0.00 3067407/3067414     avaliar_dia(Dia const&) [6]
+[8]     26.4    0.14    0.00 3067414         calcular_nutrientes(Dia const&) [8]
+-----------------------------------------------
+                0.00    0.00       8/41673932     validar_restricoes() [18]
+                0.00    0.00      28/41673932     imprimir_dia(Dia const&) [17]
+                0.00    0.00 1114400/41673932     cruzar_individuos(Individuo const&, Individuo const&) [15]
+                0.00    0.00 1121316/41673932     executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+                0.01    0.00 2629212/41673932     contar_repeticoes(Individuo const&) [5]
+                0.08    0.00 36808968/41673932     chave_refeicao(std::vector<Porcao, std::allocator<Porcao> > const&) [7]
+[9]     17.0    0.09    0.00 41673932         permitido(Alimento const&) [9]
+-----------------------------------------------
+                0.00    0.00  560000/2814696     executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+                0.01    0.01 1052064/2814696     gerar_dia() [12]
+                0.01    0.01 1202632/2814696     imprimir_cardapio(Individuo const&) [11]
+[10]     7.5    0.02    0.02 2814696         std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::operator()() [10]
+                0.02    0.00    4511/4511        std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::_M_gen_rand() [13]
+-----------------------------------------------
+                0.00    0.00       1/1202633     main [1]
+                0.00    0.00  278600/1202633     cruzar_individuos(Individuo const&, Individuo const&) [15]
+                0.00    0.01  398000/1202633     torneio(std::vector<Individuo, std::allocator<Individuo> > const&) [4]
+                0.00    0.01  526032/1202633     sortear_alimento(std::vector<Alimento, std::allocator<Alimento> > const&) [14]
+[11]     5.1    0.01    0.02 1202633         imprimir_cardapio(Individuo const&) [11]
+                0.01    0.01 1202632/2814696     std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::operator()() [10]
+                0.00    0.00       2/438202      contar_repeticoes(Individuo const&) [5]
+                0.00    0.00       7/3067407     avaliar_dia(Dia const&) [6]
+                0.00    0.00       7/7           imprimir_dia(Dia const&) [17]
+-----------------------------------------------
+                0.00    0.00    1400/29224       gerar_individuo() [16]
+                0.00    0.03   27824/29224       executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+[12]     5.1    0.00    0.03   29224         gerar_dia() [12]
+                0.01    0.01 1052064/2814696     std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::operator()() [10]
+                0.00    0.01  526032/526032      sortear_alimento(std::vector<Alimento, std::allocator<Alimento> > const&) [14]
+                0.00    0.00  409136/409136      void std::vector<Porcao, std::allocator<Porcao> >::_M_realloc_insert<Porcao const&>(__gnu_cxx::__normal_iterator<Porcao*, std::vector<Porcao, std::allocator<Porcao> > >, Porcao const&) [25]
+-----------------------------------------------
+                0.02    0.00    4511/4511        std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::operator()() [10]
+[13]     3.8    0.02    0.00    4511         std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::_M_gen_rand() [13]
+-----------------------------------------------
+                0.00    0.01  526032/526032      gerar_dia() [12]
+[14]     2.2    0.00    0.01  526032         sortear_alimento(std::vector<Alimento, std::allocator<Alimento> > const&) [14]
+                0.00    0.01  526032/1202633     imprimir_cardapio(Individuo const&) [11]
+-----------------------------------------------
+                0.00    0.01   39800/39800       executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+[15]     1.6    0.00    0.01   39800         cruzar_individuos(Individuo const&, Individuo const&) [15]
+                0.00    0.00  278600/1202633     imprimir_cardapio(Individuo const&) [11]
+                0.00    0.00 1114400/41673932     permitido(Alimento const&) [9]
+-----------------------------------------------
+                0.00    0.00     200/200         executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+[16]     0.2    0.00    0.00     200         gerar_individuo() [16]
+                0.00    0.00    1400/29224       gerar_dia() [12]
+-----------------------------------------------
+                0.00    0.00       7/7           imprimir_cardapio(Individuo const&) [11]
+[17]     0.0    0.00    0.00       7         imprimir_dia(Dia const&) [17]
+                0.00    0.00       7/3067414     calcular_nutrientes(Dia const&) [8]
+                0.00    0.00      28/41673932     permitido(Alimento const&) [9]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[18]     0.0    0.00    0.00       1         validar_restricoes() [18]
+                0.00    0.00       8/41673932     permitido(Alimento const&) [9]
+-----------------------------------------------
+                0.00    0.00       3/3           main [1]
+[19]     0.0    0.00    0.00       3         frame_dummy [19]
+-----------------------------------------------
+                0.00    0.00  409136/409136      gerar_dia() [12]
+[25]     0.0    0.00    0.00  409136         void std::vector<Porcao, std::allocator<Porcao> >::_M_realloc_insert<Porcao const&>(__gnu_cxx::__normal_iterator<Porcao*, std::vector<Porcao, std::allocator<Porcao> > >, Porcao const&) [25]
+-----------------------------------------------
+                0.00    0.00    1609/1609        executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+[26]     0.0    0.00    0.00    1609         void std::vector<Individuo, std::allocator<Individuo> >::_M_realloc_insert<Individuo>(__gnu_cxx::__normal_iterator<Individuo*, std::vector<Individuo, std::allocator<Individuo> > >, Individuo&&) [26]
+-----------------------------------------------
+                0.00    0.00     200/200         executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+[27]     0.0    0.00    0.00     200         void std::vector<Individuo, std::allocator<Individuo> >::_M_realloc_insert<Individuo const&>(__gnu_cxx::__normal_iterator<Individuo*, std::vector<Individuo, std::allocator<Individuo> > >, Individuo const&) [27]
+-----------------------------------------------
+                0.00    0.00       9/9           executar_algoritmo(std::vector<double, std::allocator<double> >&) [3]
+[28]     0.0    0.00    0.00       9         void std::vector<double, std::allocator<double> >::_M_realloc_insert<double const&>(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, double const&) [28]
+-----------------------------------------------
+                0.00    0.00       8/8           __static_initialization_and_destruction_0() [2]
+[29]     0.0    0.00    0.00       8         std::vector<Alimento, std::allocator<Alimento> >::vector(std::initializer_list<Alimento>, std::allocator<Alimento> const&) [29]
+                0.00    0.00       8/8           Alimento* std::__do_uninit_copy<Alimento const*, Alimento*>(Alimento const*, Alimento const*, Alimento*) [30]
+-----------------------------------------------
+                0.00    0.00       8/8           std::vector<Alimento, std::allocator<Alimento> >::vector(std::initializer_list<Alimento>, std::allocator<Alimento> const&) [29]
+[30]     0.0    0.00    0.00       8         Alimento* std::__do_uninit_copy<Alimento const*, Alimento*>(Alimento const*, Alimento const*, Alimento*) [30]
+-----------------------------------------------
+                0.00    0.00       2/2           main [1]
+[31]     0.0    0.00    0.00       2         perguntar(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [31]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[32]     0.0    0.00    0.00       1         definir_restricoes(Restricoes const&) [32]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[33]     0.0    0.00    0.00       1         std::vector<double, std::allocator<double> >::~vector() [33]
+-----------------------------------------------
+
+Index by function name
+
+   [6] avaliar_dia(Dia const&) [3] executar_algoritmo(std::vector<double, std::allocator<double> >&) [25] void std::vector<Porcao, std::allocator<Porcao> >::_M_realloc_insert<Porcao const&>(__gnu_cxx::__normal_iterator<Porcao*, std::vector<Porcao, std::allocator<Porcao> > >, Porcao const&)
+  [17] imprimir_dia(Dia const&) [18] validar_restricoes() [29] std::vector<Alimento, std::allocator<Alimento> >::vector(std::initializer_list<Alimento>, std::allocator<Alimento> const&)
+   [7] chave_refeicao(std::vector<Porcao, std::allocator<Porcao> > const&) [8] calcular_nutrientes(Dia const&) [27] void std::vector<Individuo, std::allocator<Individuo> >::_M_realloc_insert<Individuo const&>(__gnu_cxx::__normal_iterator<Individuo*, std::vector<Individuo, std::allocator<Individuo> > >, Individuo const&)
+  [16] gerar_individuo()       [4] torneio(std::vector<Individuo, std::allocator<Individuo> > const&) [26] void std::vector<Individuo, std::allocator<Individuo> >::_M_realloc_insert<Individuo>(__gnu_cxx::__normal_iterator<Individuo*, std::vector<Individuo, std::allocator<Individuo> > >, Individuo&&)
+  [14] sortear_alimento(std::vector<Alimento, std::allocator<Alimento> > const&) [12] gerar_dia() [28] void std::vector<double, std::allocator<double> >::_M_realloc_insert<double const&>(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, double const&)
+   [5] contar_repeticoes(Individuo const&) [31] perguntar(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [33] std::vector<double, std::allocator<double> >::~vector()
+  [15] cruzar_individuos(Individuo const&, Individuo const&) [9] permitido(Alimento const&) [30] Alimento* std::__do_uninit_copy<Alimento const*, Alimento*>(Alimento const*, Alimento const*, Alimento*)
+  [11] imprimir_cardapio(Individuo const&) [13] std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::_M_gen_rand() [19] frame_dummy
+  [32] definir_restricoes(Restricoes const&) [10] std::mersenne_twister_engine<unsigned long, 32ul, 624ul, 397ul, 31ul, 2567483615ul, 11ul, 4294967295ul, 7ul, 2636928640ul, 15ul, 4022730752ul, 18ul, 1812433253ul>::operator()() [1] main

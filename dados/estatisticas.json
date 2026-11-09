@@ -1,0 +1,38 @@
+{
+  "nenhuma": {
+    "minimo": 0.86,
+    "q1": 0.875,
+    "mediana": 0.91,
+    "media": 0.905,
+    "q3": 0.92,
+    "maximo": 0.97,
+    "desvio_amostral": 0.03374742788552765
+  },
+  "gluten": {
+    "minimo": 0.9,
+    "q1": 0.9225000000000001,
+    "mediana": 0.95,
+    "media": 1.0110000000000001,
+    "q3": 1.0275,
+    "maximo": 1.43,
+    "desvio_amostral": 0.16141389173316045
+  },
+  "lactose": {
+    "minimo": 0.91,
+    "q1": 0.9524999999999999,
+    "mediana": 0.98,
+    "media": 1.008,
+    "q3": 1.0025,
+    "maximo": 1.21,
+    "desvio_amostral": 0.09784341231443909
+  },
+  "ambas": {
+    "minimo": 0.92,
+    "q1": 0.935,
+    "mediana": 0.96,
+    "media": 0.971,
+    "q3": 0.9975,
+    "maximo": 1.06,
+    "desvio_amostral": 0.04383048152953731
+  }
+}
