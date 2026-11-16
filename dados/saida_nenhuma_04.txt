@@ -1,0 +1,55 @@
+Sem gluten? (s/n): Sem lactose? (s/n): 
+CARDAPIO SEMANAL
+Restricoes: nenhuma
+
+Segunda
+  Cafe da manha: Tapioca (goma hidratada) (57 g), Morango (129 g), Leite UHT integral (190 ml)
+  Almoco: Macarrao espaguete cozido (115 g), Feijao preto (120 g), Cará (7 g), Mandioca Frita (10 g), Carne bovina acem moida cozida (130 g), Suco de abacaxi (104 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (107 g), Kiwi (107 g), Leite UHT integral (170 ml)
+  Janta: Macarrao espaguete cozido (66 g), Feijao preto (64 g), Brocolis cozido (6 g), Quiabo cozido (19 g), Ovo de galinha cozido (193 g), Suco de abacaxi (192 ml)
+  Total do dia: Proteina 136.4 g | Carboidrato 337.1 g | Gordura 52.0 g | 2430.1 kcal
+
+Terca
+  Cafe da manha: Tapioca (goma hidratada) (127 g), Laranja Pera (118 g), Agua de coco (140 ml)
+  Almoco: Arroz tipo 1 (119 g), Feijao carioca (71 g), Espinafre Nova Zelândia Refogado (16 g), Batata Doce Cozida (17 g), Frango coxa sem pele cozida (133 g), Suco de uva nectar (129 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (137 g), Melao (114 g), Leite UHT integral (145 ml)
+  Janta: Macarrao Instantaneo (72 g), Feijao carioca (112 g), Cará (14 g), Pepino cru (17 g), File de Merluza Frito (95 g), Suco de abacaxi (101 ml)
+  Total do dia: Proteina 119.8 g | Carboidrato 406.4 g | Gordura 29.5 g | 2446.1 kcal
+
+Quarta
+  Cafe da manha: Tapioca (goma hidratada) (119 g), Abacaxi (113 g), Cafe (115 ml)
+  Almoco: Feijao carioca (69 g), Arroz integral cozido (106 g), Abobrinha Italiana Refogada (10 g), Cará (17 g), Frango coxa sem pele cozida (165 g), Agua de coco (138 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (55 g), Uva Italia (103 g), Cha mate (167 ml)
+  Janta: Macarrao espaguete cozido (64 g), Arroz tipo 1 (58 g), Abobora cabotia cozida (17 g), Abobrinha Italiana Refogada (11 g), Tilapia grelhada (112 g), Suco de abacaxi (184 ml)
+  Total do dia: Proteina 116.2 g | Carboidrato 323.4 g | Gordura 28.6 g | 1994.5 kcal
+
+Quinta
+  Cafe da manha: Tapioca (goma hidratada) (95 g), Melancia (140 g), Leite sem lactose (163 ml)
+  Almoco: Arroz tipo 1 (87 g), Feijao preto (145 g), Chuchu cozido (19 g), Batata Doce Cozida (6 g), Frango coxa sem pele cozida (135 g), Suco Laranja Pera (166 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (119 g), Abacaxi (131 g), Leite sem lactose (103 ml)
+  Janta: Grao de bico (62 g), Lentilha (81 g), Mandioca Frita (10 g), Nabo cru (20 g), Frango peito sem pele grelhado (67 g), Suco de uva nectar (176 ml)
+  Total do dia: Proteina 134.7 g | Carboidrato 402.5 g | Gordura 23.9 g | 2349.1 kcal
+
+Sexta
+  Cafe da manha: Tapioca (goma hidratada) (115 g), Uva Italia (137 g), Suco de uva nectar (183 ml)
+  Almoco: Arroz integral cozido (66 g), Feijao preto (76 g), Quiabo cozido (12 g), Nabo cru (11 g), Frango peito sem pele grelhado (160 g), Agua de coco (145 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (124 g), Abacaxi (114 g), Suco de uva nectar (183 ml)
+  Janta: Macarrao Instantaneo (101 g), Macarrao espaguete cozido (60 g), Couve-flor cozida (18 g), Pepino cru (14 g), Camarao cozido (112 g), Suco Laranja Pera (179 ml)
+  Total do dia: Proteina 111.9 g | Carboidrato 410.7 g | Gordura 23.8 g | 2296.1 kcal
+
+Sabado
+  Cafe da manha: Tapioca (goma hidratada) (57 g), Abacate (103 g), Iogurte natural (198 ml)
+  Almoco: Grao de bico (112 g), Feijao preto (120 g), Cará (8 g), Couve-flor cozida (12 g), Lombo de porco assado (143 g), Suco de uva nectar (139 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (131 g), Laranja Pera (109 g), Cha mate (111 ml)
+  Janta: Macarrao Instantaneo (77 g), Arroz tipo 1 (69 g), Pepino cru (7 g), Alface Lisa (16 g), Atum conserva em oleo (80 g), Refrigerante Guarana (162 ml)
+  Total do dia: Proteina 140.7 g | Carboidrato 364.3 g | Gordura 44.8 g | 2445.6 kcal
+
+Domingo
+  Cafe da manha: Tapioca (goma hidratada) (78 g), Maracujá (108 g), Iogurte natural (162 ml)
+  Almoco: Lentilha (72 g), Arroz tipo 1 (124 g), Alho cru (9 g), Quiabo cozido (16 g), Carne bovina lagarto cozida (190 g), Suco de abacaxi (180 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (140 g), Manga Tommy (147 g), Leite sem lactose (170 ml)
+  Janta: Macarrao Instantaneo (61 g), Macarrao espaguete cozido (67 g), Batata inglesa cozida (16 g), Abobora cabotia cozida (12 g), Ovo de galinha cozido (172 g), Suco de uva nectar (154 ml)
+  Total do dia: Proteina 131.1 g | Carboidrato 352.7 g | Gordura 58.1 g | 2463.6 kcal
+
+Refeicoes repetidas: 0
+Fitness: 531.35

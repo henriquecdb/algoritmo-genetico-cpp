@@ -1,0 +1,55 @@
+Sem gluten? (s/n): Sem lactose? (s/n): 
+CARDAPIO SEMANAL
+Restricoes: sem gluten
+
+Segunda
+  Cafe da manha: Tapioca (goma hidratada) (88 g), Kiwi (144 g), Leite sem lactose (111 ml)
+  Almoco: Lentilha (69 g), Arroz tipo 1 (53 g), Alface Lisa (8 g), Batata inglesa cozida (18 g), Carne bovina costela assada (179 g), Suco Laranja Pera (168 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (61 g), Melao (116 g), Leite sem lactose (163 ml)
+  Janta: Feijao carioca (141 g), Arroz integral cozido (108 g), Pepino cru (12 g), Beterraba Crua (8 g), Frango peito sem pele grelhado (171 g), Suco Laranja Pera (132 ml)
+  Total do dia: Proteina 167.8 g | Carboidrato 305.6 g | Gordura 65.6 g | 2498.6 kcal
+
+Terca
+  Cafe da manha: Tapioca (goma hidratada) (137 g), Manga Tommy (135 g), Iogurte natural (103 ml)
+  Almoco: Arroz integral cozido (91 g), Feijao preto (103 g), Abobrinha Italiana Refogada (7 g), Alho cru (14 g), Bife de patinho grelhado (166 g), Agua de coco (126 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (70 g), Laranja Pera (135 g), Leite sem lactose (105 ml)
+  Janta: Lentilha (140 g), Feijao carioca (79 g), Batata inglesa cozida (6 g), Cará (17 g), Salmao grelhado (105 g), Refrigerante Guarana (129 ml)
+  Total do dia: Proteina 165.8 g | Carboidrato 378.3 g | Gordura 35.3 g | 2490.0 kcal
+
+Quarta
+  Cafe da manha: Tapioca (goma hidratada) (82 g), Abacate (107 g), Cafe (105 ml)
+  Almoco: Feijao preto (55 g), Grao de bico (129 g), Cará (18 g), Batata Doce Cozida (9 g), Carne bovina lagarto cozida (101 g), Agua de coco (109 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (68 g), Manga Tommy (140 g), Agua de coco (199 ml)
+  Janta: Arroz integral cozido (81 g), Grao de bico (58 g), Nabo cru (16 g), Abobrinha Italiana Refogada (19 g), Ovo de galinha cozido (186 g), Refrigerante Guarana (109 ml)
+  Total do dia: Proteina 129.7 g | Carboidrato 355.5 g | Gordura 59.3 g | 2450.6 kcal
+
+Quinta
+  Cafe da manha: Tapioca (goma hidratada) (61 g), Abacate (124 g), Leite sem lactose (177 ml)
+  Almoco: Feijao preto (103 g), Arroz tipo 1 (115 g), Mandioca Frita (8 g), Abobrinha Italiana Refogada (17 g), Carne bovina costela assada (113 g), Suco Laranja Pera (135 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (84 g), Maça Fuji (138 g), Cha mate (119 ml)
+  Janta: Arroz integral cozido (122 g), Feijao preto (124 g), Tomate com semente cru (10 g), Chuchu cozido (19 g), Salmao grelhado (162 g), Refrigerante Guarana (131 ml)
+  Total do dia: Proteina 131.0 g | Carboidrato 326.7 g | Gordura 70.3 g | 2478.8 kcal
+
+Sexta
+  Cafe da manha: Tapioca (goma hidratada) (96 g), Uva Italia (115 g), Cha mate (128 ml)
+  Almoco: Feijao preto (97 g), Arroz tipo 1 (111 g), Abobora cabotia cozida (12 g), Batata Doce Cozida (11 g), Frango coxa sem pele cozida (179 g), Refrigerante Guarana (170 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (108 g), Manga Tommy (139 g), Cafe (154 ml)
+  Janta: Lentilha (53 g), Arroz integral cozido (130 g), Tomate com semente cru (14 g), Beterraba Crua (10 g), Camarao cozido (117 g), Suco Laranja Pera (117 ml)
+  Total do dia: Proteina 141.2 g | Carboidrato 411.9 g | Gordura 32.3 g | 2467.1 kcal
+
+Sabado
+  Cafe da manha: Tapioca (goma hidratada) (77 g), Maça Fuji (129 g), Cafe (157 ml)
+  Almoco: Arroz integral cozido (95 g), Feijao carioca (62 g), Chuchu cozido (8 g), Couve-flor cozida (9 g), Frango peito sem pele grelhado (81 g), Refrigerante Guarana (149 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (57 g), Abacate (114 g), Cha mate (162 ml)
+  Janta: Feijao carioca (118 g), Arroz tipo 1 (110 g), Brocolis cozido (8 g), Alho cru (7 g), Frango peito sem pele grelhado (86 g), Suco de uva nectar (131 ml)
+  Total do dia: Proteina 119.0 g | Carboidrato 413.4 g | Gordura 34.4 g | 2423.6 kcal
+
+Domingo
+  Cafe da manha: Tapioca (goma hidratada) (145 g), Melancia (110 g), Iogurte natural (129 ml)
+  Almoco: Feijao carioca (114 g), Feijao preto (65 g), Quiabo cozido (6 g), Brocolis cozido (14 g), Carne bovina fraldinha com gordura cozida (142 g), Refrigerante Guarana (135 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (137 g), Manga Tommy (147 g), Suco Laranja Pera (190 ml)
+  Janta: Feijao preto (60 g), Grao de bico (63 g), Batata Doce Cozida (10 g), Repolho cru (13 g), Salmao grelhado (68 g), Suco Laranja Pera (143 ml)
+  Total do dia: Proteina 121.3 g | Carboidrato 378.5 g | Gordura 55.9 g | 2481.1 kcal
+
+Refeicoes repetidas: 0
+Fitness: 362.61

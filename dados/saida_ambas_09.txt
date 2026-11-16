@@ -1,0 +1,55 @@
+Sem gluten? (s/n): Sem lactose? (s/n): 
+CARDAPIO SEMANAL
+Restricoes: sem gluten, sem lactose
+
+Segunda
+  Cafe da manha: Tapioca (goma hidratada) (81 g), Maça Fuji (114 g), Cafe (138 ml)
+  Almoco: Feijao preto (55 g), Arroz tipo 1 (67 g), Cenoura Cozida (10 g), Cará (20 g), Frango peito sem pele grelhado (165 g), Suco Laranja Pera (107 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (74 g), Abacate (115 g), Leite sem lactose (143 ml)
+  Janta: Arroz tipo 1 (93 g), Lentilha (65 g), Nabo cru (13 g), Couve Crua (7 g), Camarao cozido (100 g), Suco de uva nectar (178 ml)
+  Total do dia: Proteina 134.2 g | Carboidrato 373.1 g | Gordura 36.2 g | 2339.2 kcal
+
+Terca
+  Cafe da manha: Tapioca (goma hidratada) (130 g), Maracujá (130 g), Cha mate (114 ml)
+  Almoco: Lentilha (110 g), Arroz integral cozido (70 g), Couve Crua (11 g), Couve-flor cozida (9 g), Carne bovina costela assada (158 g), Agua de coco (114 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (81 g), Melancia (116 g), Suco de uva nectar (156 ml)
+  Janta: Arroz integral cozido (73 g), Grao de bico (60 g), Alho cru (10 g), Cenoura Cozida (8 g), Ovo de galinha cozido (164 g), Suco de abacaxi (135 ml)
+  Total do dia: Proteina 114.6 g | Carboidrato 334.3 g | Gordura 67.0 g | 2395.6 kcal
+
+Quarta
+  Cafe da manha: Tapioca (goma hidratada) (52 g), Kiwi (130 g), Cha mate (129 ml)
+  Almoco: Arroz tipo 1 (63 g), Feijao preto (85 g), Beterraba Crua (5 g), Couve-flor cozida (12 g), Frango peito sem pele grelhado (107 g), Suco de abacaxi (193 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (129 g), Abacaxi (130 g), Cafe (141 ml)
+  Janta: Grao de bico (82 g), Feijao carioca (68 g), Brocolis cozido (20 g), Batata Doce Cozida (11 g), Corimbata Assado (92 g), Agua de coco (160 ml)
+  Total do dia: Proteina 127.5 g | Carboidrato 399.1 g | Gordura 31.4 g | 2481.0 kcal
+
+Quinta
+  Cafe da manha: Tapioca (goma hidratada) (109 g), Uva Italia (101 g), Cafe (154 ml)
+  Almoco: Lentilha (69 g), Arroz integral cozido (128 g), Batata Doce Cozida (11 g), Brocolis cozido (14 g), Bife de patinho grelhado (96 g), Refrigerante Guarana (150 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (95 g), Maracujá (135 g), Leite sem lactose (125 ml)
+  Janta: Feijao preto (56 g), Arroz integral cozido (125 g), Nabo cru (17 g), Cenoura Cozida (15 g), Atum conserva em oleo (99 g), Suco Laranja Pera (199 ml)
+  Total do dia: Proteina 127.1 g | Carboidrato 404.0 g | Gordura 35.6 g | 2474.9 kcal
+
+Sexta
+  Cafe da manha: Tapioca (goma hidratada) (67 g), Abacaxi (102 g), Suco Laranja Pera (143 ml)
+  Almoco: Arroz integral cozido (97 g), Lentilha (56 g), Couve Crua (14 g), Espinafre Nova Zelândia Refogado (17 g), Frango peito sem pele grelhado (117 g), Suco Laranja Pera (164 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (135 g), Abacate (128 g), Cafe (150 ml)
+  Janta: Arroz tipo 1 (125 g), Feijao carioca (61 g), Mandioca Frita (14 g), Cenoura Cozida (12 g), Atum conserva em oleo (163 g), Refrigerante Guarana (121 ml)
+  Total do dia: Proteina 138.4 g | Carboidrato 385.9 g | Gordura 35.4 g | 2496.0 kcal
+
+Sabado
+  Cafe da manha: Tapioca (goma hidratada) (108 g), Laranja Pera (120 g), Cafe (162 ml)
+  Almoco: Arroz integral cozido (108 g), Feijao preto (56 g), Couve-flor cozida (12 g), Vagem crua (6 g), Carne bovina lagarto cozida (149 g), Suco de abacaxi (140 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (126 g), Morango (116 g), Cha mate (187 ml)
+  Janta: Feijao carioca (58 g), Lentilha (68 g), Cará (6 g), Abobora cabotia cozida (8 g), Ovo de galinha cozido (67 g), Agua de coco (111 ml)
+  Total do dia: Proteina 127.8 g | Carboidrato 396.7 g | Gordura 41.7 g | 2452.4 kcal
+
+Domingo
+  Cafe da manha: Tapioca (goma hidratada) (117 g), Coco (110 g), Agua de coco (146 ml)
+  Almoco: Arroz tipo 1 (86 g), Feijao carioca (113 g), Alface Lisa (13 g), Chuchu cozido (19 g), Lombo de porco assado (117 g), Suco de uva nectar (118 ml)
+  Cafe da tarde: Tapioca (goma hidratada) (111 g), Uva Italia (116 g), Cha mate (181 ml)
+  Janta: Feijao carioca (55 g), Arroz tipo 1 (79 g), Quiabo cozido (6 g), Espinafre Nova Zelândia Refogado (12 g), Salmao grelhado (117 g), Suco de abacaxi (192 ml)
+  Total do dia: Proteina 112.0 g | Carboidrato 348.8 g | Gordura 24.5 g | 2456.5 kcal
+
+Refeicoes repetidas: 0
+Fitness: 354.65
